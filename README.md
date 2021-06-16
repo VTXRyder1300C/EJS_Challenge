@@ -8,5 +8,7 @@
 
 -node app.js  
 
--use route /compose to add a blog
+-Using a web browser, naviagate to localhost:3000
+
+-use route /compose to add a blog (localhost:3000/compose)
 
