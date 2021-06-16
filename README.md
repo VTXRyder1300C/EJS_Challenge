@@ -2,9 +2,9 @@
 
 #To Run:  
 
--Navigate to directory  
+-Use terminal: npm i  
 
--user terminal: npm i  
+-Navigate to directory  
 
 -node app.js  
 
